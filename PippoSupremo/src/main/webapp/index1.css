@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+h1 {
+	text-align: center;
+	font-family: "Audiowide", sans-serif;
+	  color: gray;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px fuchsia;
+	  
+}
+h2 {
+	font-family: "Audiowide", sans-serif;
+	color:white;
+	  text-shadow: 2px 2px #011a64;
+}
+body{
+	  background-image: url("https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true");
+  background-color: #cccccc;
+   background-repeat: no-repeat;
+  background-size: auto;
+}

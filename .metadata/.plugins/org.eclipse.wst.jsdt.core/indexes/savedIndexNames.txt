@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\vinom\Documents\ASCII_GAME\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+190365966.index
+2721540339.index
+4088013397.index
+3069397387.index
+841457896.index
+2089880159.index

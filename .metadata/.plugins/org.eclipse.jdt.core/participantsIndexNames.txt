@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+C:\Users\vinom\Documents\ASCII_GAME\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\700978126.index
+\PippoSupremo\src\main\java

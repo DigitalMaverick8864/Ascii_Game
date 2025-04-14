@@ -1,0 +1,65 @@
+@charset "UTF-8";
+body {
+	background-image: url("https://i.pinimg.com/originals/42/58/26/425826d55c531c22b579d4773c68adb5.gif");
+	background-color: #7a2efa;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	font-family: "Audiowide", sans-serif;
+}
+h1 {
+	text-align: center;
+	font-family: "Audiowide", sans-serif;
+	color: #cae2fb;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px fuchsia;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+.button {
+	background-color: #6f49d2; 
+	border: none;
+	color: #e876e8;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	font-family: "Audiowide", sans-serif;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+.button1 {
+	background-color: #e876e8; 
+	color: black; 
+	border: 2px solid #6f49d2;
+}
+
+.button1:hover {
+	background-color: #6f49d2;
+	color: white;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td {
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+	background-color: coral;
+}
+
+.flex-container { 
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+}
